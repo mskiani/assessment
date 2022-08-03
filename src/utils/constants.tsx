@@ -69,6 +69,8 @@ export const services = [
   },
 ]
 
+export const API_ENDPOINT =
+  'https://bqk6gkzk.api.sanity.io/v1/graphql/production/default'
 
 export const QUERY = `
 {
